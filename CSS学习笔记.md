@@ -140,7 +140,7 @@ class用于css的，id用于js的。
 
 1）class页面上可以重复。id页面上唯一，不能重复。 2）一个标签可以有多个class，用空格隔开。但是id只能有id。
 
-###盒模型详解
+### 盒模型详解
 
 **标准盒子模型**
 标准W3C盒子模型范围包括 margin padding border content,且content不包含其他部分
